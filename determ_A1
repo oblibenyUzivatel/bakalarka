@@ -1,0 +1,21 @@
+Ops l:0 a:1 b:1 c:1 d:1
+
+Automaton A
+States q r s t u v w x y z
+Final States x
+Transitions
+l -> w
+a(q) -> y
+a(q) -> x
+a(r) -> x 
+a(s) -> x
+a(w) -> t
+a(w) -> u
+a(w) -> v
+a(z) -> v
+b(w) -> q
+c(w) -> r
+d(w) -> s
+b(t) -> x
+c(u) -> x
+d(v) -> x

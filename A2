@@ -1,0 +1,14 @@
+Ops l:0 a:1 b:1
+
+Automaton A1
+States q r s t u
+Final States u
+Transitions
+l -> t
+a(t) -> q
+a(t) -> r
+b(t) -> s 
+b(q) -> u
+a(r) -> u
+a(s) -> u
+
